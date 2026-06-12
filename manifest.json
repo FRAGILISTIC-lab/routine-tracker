@@ -3,7 +3,7 @@
   "name": "ROUTINE TRACKER",
   "short_name": "RoutineTracker",
   "description": "Advanced multi-module habit adherence and financial analytics platform.",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait-primary",

@@ -1,0 +1,27 @@
+{
+  "id": "com.routinetracker.app",
+  "name": "ROUTINE TRACKER",
+  "short_name": "RoutineTracker",
+  "description": "Advanced multi-module habit adherence and financial analytics platform.",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0B0B13",
+  "theme_color": "#1e3a8a",
+  "categories": ["productivity", "finance"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
